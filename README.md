@@ -11,3 +11,5 @@ createdAt DATE,
 updatedAt DATE
 )ENGINE=INNODB;
 </code>
+
+##https://mfikri.com/en/blog/node-express-react-mysql
